@@ -87,6 +87,7 @@ A curated collection of important AI websites, tools, platforms, and resources.
 | [HeyGen](https://www.heygen.com/) | AI avatars, video generation, and translation |
 | [Synthesia](https://www.synthesia.io/) | AI avatar and business video platform |
 | [Descript](https://www.descript.com/) | AI-powered video and audio editing |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose, edit and assemble videos from editable plans |
 
 ## AI Audio & Voice
 
