@@ -119,6 +119,7 @@ A curated collection of important AI websites, tools, platforms, and resources.
 | [Lindy](https://www.lindy.ai/) | AI agents for business workflows |
 | [Manus](https://manus.im/) | General-purpose AI agent platform |
 | [Perplexity Computer](https://www.perplexity.ai/) | Agentic environment for research, analysis, and computer tasks |
+| [Orkas](https://orkas.ai/?source=gh_jstanx) | Open-source, local-first desktop AI workforce whose Commander coordinates specialist agents in one conversation |
 
 ## AI Models & APIs
 
