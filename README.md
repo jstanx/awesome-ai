@@ -62,6 +62,7 @@ A curated collection of important AI websites, tools, platforms, and resources.
 | [Bolt](https://bolt.new/) | AI-powered web application builder |
 | [Lovable](https://lovable.dev/) | AI application builder for creating full-stack products |
 | [Aider](https://aider.chat/) | Open-source AI pair programming tool |
+| [Agent QA](https://github.com/vostride/agent-qa) | The self-improving QA agent for natural-language web and mobile app tests |
 
 ## AI Image Generation
 
